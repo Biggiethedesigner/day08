@@ -1,5 +1,5 @@
 .parallax{
-    background-image: url(../images/body-bg.jpg);
+    background-image: url("body-bg.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -7,7 +7,7 @@
     background-size: cover;
 }
 .parallax-1{
-    background-image: url(../images/photo-1486746290722-483e8f1e44d2.jpeg);
+    background-image: url("photo-1486746290722-483e8f1e44d2.jpeg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
@@ -15,7 +15,7 @@
     background-size: cover;
 }
 .parallax-2{
-    background-image: url(../images/body-bg.jpg);
+    background-image: url("body-bg.jpg");
     height: 500px;
     background-attachment: fixed;
     background-position: center;
